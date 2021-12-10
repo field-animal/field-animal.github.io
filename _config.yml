@@ -11,7 +11,7 @@ gitbook_version:  3.2.3
 
 # url:              'https://sighingnow.github.io'
 url:              'https://field-animal.github.io
-#baseurl:          '/jekyll-gitbook'
+# baseurl:          '/jekyll-gitbook'
 baseurl:          '/field-animal'
 rss:              RSS
 
